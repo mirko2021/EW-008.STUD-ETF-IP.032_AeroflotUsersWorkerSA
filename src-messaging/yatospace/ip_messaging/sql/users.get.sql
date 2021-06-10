@@ -1,0 +1,1 @@
+SELECT username FROM yi_users WHERE username=?;

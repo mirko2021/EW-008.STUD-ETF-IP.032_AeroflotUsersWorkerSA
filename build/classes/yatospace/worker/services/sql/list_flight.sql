@@ -1,0 +1,1 @@
+SELECT id_fly, fly_id, fly_date, relation FROM yi_ip_flights ORDER BY fly_id ASC; 

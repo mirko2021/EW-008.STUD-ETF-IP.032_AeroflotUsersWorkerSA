@@ -1,0 +1,1 @@
+DELETE FROM yi_ip_flights WHERE fly_id=?;

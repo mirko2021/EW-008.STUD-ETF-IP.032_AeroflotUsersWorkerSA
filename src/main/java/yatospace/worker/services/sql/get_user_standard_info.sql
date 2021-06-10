@@ -1,0 +1,1 @@
+SELECT `key`, `value`, `user` FROM yi_users_role WHERE `key`='user' AND `user` = ? AND application = 'aeroflot_users'; 

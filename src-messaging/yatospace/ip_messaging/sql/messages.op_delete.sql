@@ -1,0 +1,1 @@
+DELETE FROM yi_users_messages_ip_aeroline_company WHERE  message_id = ?;

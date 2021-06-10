@@ -1,0 +1,1 @@
+INSERT INTO yi_ip_flights(fly_id, fly_date, relation) VALUES (?, ?, ?)
